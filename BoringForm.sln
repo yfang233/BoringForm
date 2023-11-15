@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoringForm", "BoringForm.csproj", "{6FA7BA29-7215-4337-90B2-60A1DFCE68E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FA7BA29-7215-4337-90B2-60A1DFCE68E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FA7BA29-7215-4337-90B2-60A1DFCE68E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FA7BA29-7215-4337-90B2-60A1DFCE68E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FA7BA29-7215-4337-90B2-60A1DFCE68E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD017F5A-C3F6-41CB-8902-1107D1E82F4C}
+	EndGlobalSection
+EndGlobal
